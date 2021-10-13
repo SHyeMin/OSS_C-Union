@@ -10,7 +10,7 @@ int main()
   printf("I'm looking forward to working with you on the project!\n");
   line;
   printf("> blacksg: Hello, I'm Seok-wan Kang, a member of team C-Union.\n");
-  printf("I'm currently studying about Android, and want to be skilled at using GitHub.");
+  printf("I'm currently studying about Android, and want to be skilled at using GitHub.\n");
   line;
   printf("> HOT4M: hello, i'm Kim Sun Jun, a member of team C-Union.\n");
   printf("Let's do this team project well!\n");
