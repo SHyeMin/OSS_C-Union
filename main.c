@@ -12,6 +12,9 @@ int main()
   printf("> blacksg: Hello, I'm Seok-wan Kang, a member of team C-Union.\n");
   printf("I'm currently studying about Android, and want to be skilled at using GitHub.");
   line;
+  printf("> HOT4M: hello, i'm Kim Sun Jun, a member of team C-Union.\n");
+  printf("Let's do this team project well!\n");
+  line;
   
   return 0;
 }
