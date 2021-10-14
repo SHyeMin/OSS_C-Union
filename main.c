@@ -15,6 +15,9 @@ int main()
   printf("> HOT4M: hello, i'm Kim Sun Jun, a member of team C-Union.\n");
   printf("Let's do this team project well!\n");
   line;
+  printf("> dungbik: Hello, I'm Yoon Jung Hwan, a member of team C-Union.\n");
+  printf("Let's learn well together!\n");
+  line;
   
   return 0;
 }
